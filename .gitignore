@@ -1,0 +1,10 @@
+Gittest/bin/
+Gittest/obj/
+Gittest.iOS/bin/
+Gittest.iOS/obj/
+Gittest.iOS/.DS_Store/
+Gittest.Android/bin/
+Gittest.Android/obj/
+Gittest.Android/.DS_Store/
+.vs
+.DS_Store
