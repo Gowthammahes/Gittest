@@ -9,7 +9,7 @@ namespace Gittest
     {
         public MainPageViewModel()
         {
-            this.AddButton_Tapped = new Command((action) =>
+            AddButton_Tapped = new Command((action) =>
             {
                 if (!(string.IsNullOrEmpty(Entry1) && string.IsNullOrEmpty(Entry2)))
                 {
