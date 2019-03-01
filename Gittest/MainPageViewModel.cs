@@ -18,6 +18,7 @@ namespace Gittest
             });
         }
         /*Git checkin #1*/
+        /*Git checkin #3*/
         public event PropertyChangedEventHandler PropertyChanged;
 
         protected void OnPropertyChanged(string propertyName)
