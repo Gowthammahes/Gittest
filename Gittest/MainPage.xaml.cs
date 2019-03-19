@@ -17,7 +17,5 @@ namespace Gittest
             InitializeComponent();
             this.BindingContext = viewModel;
         }
-
-        // git checki
     }
 }
